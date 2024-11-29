@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="SferumAPI",
-    version="0.1.0",
+    version="0.1.1",
     author="l2700l",
     author_email="thetypgame@gmail.com",
     description="API wrapper for Sferum platform",
